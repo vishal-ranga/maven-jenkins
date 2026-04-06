@@ -14,30 +14,10 @@ you'll be creating yourself during the tutorial and the `jenkins/scripts` subdir
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
-# 🚀 Maven Jenkins CI/CD Project
-
-This project demonstrates a complete CI/CD pipeline using:
-
-- Java (Maven)
-- Jenkins
-- GitHub
-- Linux (CentOS)
-
----
-
-## 🔄 CI/CD Flow
-
-GitHub → Jenkins → Maven Build → Deploy
-
----
-
 ## 📸 Screenshots
 
 ### 🔹 Jenkins Dashboard
 ![Jenkins Dashboard](screenshots/jenkins-dashboard.png)
-
-### 🔹 GitHub Repository
-![GitHub Repo](screenshots/github-repo.png)
 
 ### 🔹 Build Success
 ![Build Success](screenshots/build-success.png)
@@ -45,18 +25,5 @@ GitHub → Jenkins → Maven Build → Deploy
 ### 🔹 Console Output
 ![Console Output](screenshots/console-output.png)
 
----
-
-## ⚙️ Tech Stack
-
-- Java
-- Maven
-- Jenkins
-- GitHub
-- Linux (CentOS)
-
----
-
-## 👨‍💻 Author
-
-**Vishal Ranga**
+### 🔹 File Location
+![File Location](screenshots/file-location.png)
